@@ -14,7 +14,7 @@ https://gallery.styly.cc/scene/6649fd36-2905-4ba0-8672-1b054906b553
 
 ## やり方
 1. Scaniverseで部屋をスキャンして、3Dオブジェクト(.fbx)を作成。
-1. そのfbxファイルをUnityにインポートして、色をつけてSTYLYにアップロード
+1. そのfbxファイルをUnityにインポートして、MaterialとTextureをつけてSTYLYにアップロード
 1. STYLYでモディファイアーを追加していい感じに
 1. 完成！
 
