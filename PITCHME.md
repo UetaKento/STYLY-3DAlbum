@@ -1,4 +1,4 @@
-## STYLY-3DAlbum
+# STYLY-3DAlbum
 
 ---
 
